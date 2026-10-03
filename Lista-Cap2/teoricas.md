@@ -42,7 +42,7 @@ int main() {
 }
 ```
 ## Questão 04.
-## Questão 04. Operadores de Atribuição Composta e Precedência
+
 int a=1, b=2, c=3, d=4 Em C, quando há múltiplas atribuições na mesma instrução, a avaliação ocorre da direita para a esquerda.
 
 a += b + c; 
